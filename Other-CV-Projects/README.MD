@@ -10,7 +10,7 @@ This tasks involves applying a segmentation model for a human segmentation task.
 
 The Model used for this task is : [UNET](https://arxiv.org/pdf/1505.04597.pdf)
 
-Code Link in this Repository: 
+Code Link in this Repository: [Here](https://github.com/Aminah92/Computer-Vision-Projects/blob/main/Other-CV-Projects/Guided_Coursera_Project_Deep_Learning_with_PyTorch_ImageSegmentation_with_U_net.ipynb)
 
 
 2. [Aerial Image Segmentation](https://www.coursera.org/projects/aerial-image-segmentation-with-pytorch)
