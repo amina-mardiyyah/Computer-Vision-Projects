@@ -17,7 +17,7 @@ Code Link in this Repository: [Here](https://github.com/Aminah92/Computer-Vision
 
 Dataset used : [Massachusetts Roads Segmentation Dataset](https://www.cs.toronto.edu/~vmnih/data/)
 
-Code Link in this Repository 
+Code Link in this Repository : [Here](https://github.com/Aminah92/Computer-Vision-Projects/blob/main/Other-CV-Projects/Guided_Coursera_Project_Aerial_Image_Segmentation_with_PyTorch.ipynb)
 
 ## Other Self-Development Projects ##
 
