@@ -25,6 +25,6 @@ Code Link in this Repository : [Here](https://github.com/Aminah92/Computer-Visio
 
 Data source : https://datasets.simula.no/kvasir-seg/
 
-Code Link in this Repository
+Code Link in this Repository: [Here](https://github.com/Aminah92/Computer-Vision-Projects/blob/main/Other-CV-Projects/Gastrointestinal%20Disease%20Detection%20using%20Unet%20for%20Image%20Segmentation.ipynb)
 
 
